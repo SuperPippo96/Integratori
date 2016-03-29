@@ -1,3 +1,5 @@
+//Esercizio integrali
+
 #include <fstream>
 #include <cmath>
 #include <iostream>
